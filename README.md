@@ -107,12 +107,12 @@ I'm an AI/ML Engineer building applied ML and NLP systems — from a **94%-accur
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-chaudhary91&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Sakshi's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-chaudhary91&theme=radical&hide_border=true" alt="Sakshi's GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-chaudhary91&show_icons=true&theme=radical&count_private=true&hide_border=true&disable_animations=true" alt="Sakshi's GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=sakshi-chaudhary91&theme=radical&hide_border=true" alt="Sakshi's GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-chaudhary91&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-chaudhary91&layout=compact&theme=radical&hide_border=true&disable_animations=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
