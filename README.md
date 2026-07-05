@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=180&section=header&text=Sakshi%20Chaudhary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20NLP%20%26%20Generative%20AI&descAlignY=55&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=180&section=header&text=Sakshi%20Chaudhary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20NLP%20%26%20Generative%20AI&descAlignY=55&descSize=16"/>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/sakshi-chaudhary91" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://leetcode.com/YOUR-LEETCODE-USERNAME" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.geeksforgeeks.org/user/YOUR-GFG-USERNAME" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
   <a href="https://kaggle.com/YOUR-KAGGLE-USERNAME" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=flat-square&color=6366F1" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=sakshi-chaudhary91&style=flat-square&color=6366F1" alt="profile views"/>
 </p>
 
 ---
@@ -76,17 +76,17 @@ I'm an AI/ML Engineer building applied ML and NLP systems — from a **94%-accur
 <table>
   <tr>
     <td width="33%">
-      <b>🤖 <a href="https://github.com/YOUR-GITHUB-USERNAME/ai-resume-analyzer">AI Resume Analyzer</a></b><br/>
+      <b>🤖 <a href="https://github.com/sakshi-chaudhary91/ai-resume-analyzer">AI Resume Analyzer</a></b><br/>
       ATS scoring, skill-gap analysis, and Gemini API-powered personalized resume recommendations.<br/>
       <a href="https://YOUR-DEMO-LINK.streamlit.app"><sub>🔗 Live Demo</sub></a>
     </td>
     <td width="33%">
-      <b>😌 <a href="https://github.com/YOUR-GITHUB-USERNAME/student-stress-management">Student Stress Management</a></b><br/>
+      <b>😌 <a href="https://github.com/sakshi-chaudhary91/student-stress-management">Student Stress Management</a></b><br/>
       ML-based stress detection via facial analysis and user parameters, with personalized reduction suggestions.<br/>
       <a href="https://YOUR-DEMO-LINK.streamlit.app"><sub>🔗 Live Demo</sub></a>
     </td>
     <td width="33%">
-      <b>📰 <a href="https://github.com/YOUR-GITHUB-USERNAME/fake-news-detection">Fake News Detection</a></b><br/>
+      <b>📰 <a href="https://github.com/sakshi-chaudhary91/fake-news-detection">Fake News Detection</a></b><br/>
       NLP classifier (Logistic Regression + TF-IDF) achieving <b>94% accuracy</b> on real-world news data.
     </td>
   </tr>
@@ -107,16 +107,16 @@ I'm an AI/ML Engineer building applied ML and NLP systems — from a **94%-accur
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Sakshi's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=true" alt="Sakshi's GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-chaudhary91&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Sakshi's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-chaudhary91&theme=radical&hide_border=true" alt="Sakshi's GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-chaudhary91&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sakshi-chaudhary91&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
