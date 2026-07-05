@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=180&section=header&text=Sakshi%20Chaudhary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20NLP%20%26%20Generative%20AI&descAlignY=55&descSize=16"/>
-</p>
+<h1 align="center">Hi 👋, I'm Sakshi Chaudhary</h1>
+<h3 align="center">AI/ML Engineer | NLP & Generative AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -107,20 +106,11 @@ I'm an AI/ML Engineer building applied ML and NLP systems — from a **94%-accur
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-chaudhary91&show_icons=true&theme=radical&count_private=true&hide_border=true&disable_animations=true" alt="Sakshi's GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=sakshi-chaudhary91&theme=radical&hide_border=true" alt="Sakshi's GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-chaudhary91&layout=compact&theme=radical&hide_border=true&disable_animations=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakshi-chaudhary91&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer"/>
+  <i>Thanks for visiting my profile! 🌟 Feel free to explore my repositories and connect with me.</i>
 </p>
