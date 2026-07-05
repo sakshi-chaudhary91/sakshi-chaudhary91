@@ -1,0 +1,20 @@
+<svg viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgFooter" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#6366F1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="100" fill="url(#bgFooter)"/>
+
+  <path d="M0,30 C150,-10 300,60 450,30 C600,0 750,50 900,25 L900,0 L0,0 Z"
+        fill="#ffffff" opacity="0.08"/>
+  <path d="M0,15 C150,50 300,-10 450,15 C600,40 750,0 900,20 L900,0 L0,0 Z"
+        fill="#ffffff" opacity="0.12"/>
+
+  <text x="450" y="65" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif"
+        font-size="16" fill="#ffffff" opacity="0.9">
+    Thanks for visiting my profile! 🌟
+  </text>
+</svg>
