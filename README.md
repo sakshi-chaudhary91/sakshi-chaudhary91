@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sakshi Chaudhary</h1>
-<h3 align="center">AI/ML Engineer | NLP & Generative AI Enthusiast | Building intelligent, real-world ML applications</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=180&section=header&text=Sakshi%20Chaudhary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20NLP%20%26%20Generative%20AI&descAlignY=55&descSize=16"/>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -10,22 +11,27 @@
   <a href="mailto:sakshichaudhary9140@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=flat-square&color=6366F1" alt="profile views"/>
+</p>
+
 ---
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in Computer Science (AI & ML), Dr. Ambedkar Institute of Technology for Divyangjan, Kanpur — CGPA: 8.34/10 (2023–2027)
-- 🔭 Currently working as a **UI/UX Designer Intern** at MedhaShala
-- 🌱 Passionate about **Machine Learning, NLP, and Generative AI**
-- 🤝 Operations Head at E-Cell Club | Open-Source Contributor at Open Source Connect Global
+I'm an AI/ML Engineer building applied ML and NLP systems — from a **94%-accuracy fake news classifier** to an AI resume analyzer powered by the Gemini API. Currently exploring the intersection of **Generative AI and usable product design**.
+
+- 🎓 B.Tech, Computer Science (AI & ML) — Dr. Ambedkar Institute of Technology for Divyangjan, Kanpur · CGPA 8.34/10 · 2023–2027
+- 🔭 Currently a **UI/UX Design Intern** at MedhaShala, designing interfaces in Figma
+- 🌱 Currently deepening my skills in **Generative AI & LLM-based applications**
+- 🤝 **Operations Head**, E-Cell Club · Open-Source Contributor, Open Source Connect Global
 - 📫 Reach me at **sakshichaudhary9140@gmail.com**
-- ⚡ Fun fact: I love turning messy data into meaningful insights!
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack
 
-**Languages & Core:**
+**Languages & Core**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -33,26 +39,24 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-**ML / AI / Data:**
+**Machine Learning, NLP & Data**
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-444876?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-FF6F61?style=flat-square"/>
 </p>
 
-**Web:**
+**Web**
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
-**Tools & Platforms:**
+**Tools & Platforms**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
@@ -69,23 +73,54 @@
 
 ### 💼 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🤖 [AI Resume Analyzer](https://github.com/YOUR-GITHUB-USERNAME/ai-resume-analyzer) | AI-powered resume analyzer with ATS scoring, skill gap analysis, and Gemini API-based personalized recommendations. |
-| 😌 [Student Stress Management](https://github.com/YOUR-GITHUB-USERNAME/student-stress-management) | ML-based stress detection using facial analysis and user parameters, with personalized reduction suggestions. |
-| 📰 [Fake News Detection](https://github.com/YOUR-GITHUB-USERNAME/fake-news-detection) | NLP-based classifier (Logistic Regression + TF-IDF) achieving 94% accuracy. |
+<table>
+  <tr>
+    <td width="33%">
+      <b>🤖 <a href="https://github.com/YOUR-GITHUB-USERNAME/ai-resume-analyzer">AI Resume Analyzer</a></b><br/>
+      ATS scoring, skill-gap analysis, and Gemini API-powered personalized resume recommendations.<br/>
+      <a href="https://YOUR-DEMO-LINK.streamlit.app"><sub>🔗 Live Demo</sub></a>
+    </td>
+    <td width="33%">
+      <b>😌 <a href="https://github.com/YOUR-GITHUB-USERNAME/student-stress-management">Student Stress Management</a></b><br/>
+      ML-based stress detection via facial analysis and user parameters, with personalized reduction suggestions.<br/>
+      <a href="https://YOUR-DEMO-LINK.streamlit.app"><sub>🔗 Live Demo</sub></a>
+    </td>
+    <td width="33%">
+      <b>📰 <a href="https://github.com/YOUR-GITHUB-USERNAME/fake-news-detection">Fake News Detection</a></b><br/>
+      NLP classifier (Logistic Regression + TF-IDF) achieving <b>94% accuracy</b> on real-world news data.
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🏆 Certifications
 
-- Oracle Certified Professional – OCI Generative AI (Oct 2025)
-- Oracle Foundations Associate – OCI AI Foundations (Oct 2025)
-- AI Careers for Women Program (Mar 2025 – May 2025)
+<p>
+  <img src="https://img.shields.io/badge/Oracle-OCI%20Generative%20AI%20Professional-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-OCI%20AI%20Foundations-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Careers%20for%20Women-Program%20Completion-6366F1?style=flat-square"/>
+</p>
 
 ---
 
+### 📊 GitHub Stats
 
 <p align="center">
-  <i>Thanks for visiting my profile! 🌟 Feel free to explore my repositories and connect with me.</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Sakshi's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=true" alt="Sakshi's GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer"/>
 </p>
