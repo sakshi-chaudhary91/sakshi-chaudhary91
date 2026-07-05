@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sakshi Chaudhary</h1>
-<h3 align="center">AI/ML Engineer | NLP & Generative AI Enthusiast</h3>
+<p align="center">
+  <img src="banner.svg" alt="Sakshi Chaudhary - AI/ML Engineer"/>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -112,5 +113,5 @@ I'm an AI/ML Engineer building applied ML and NLP systems — from a **94%-accur
 ---
 
 <p align="center">
-  <i>Thanks for visiting my profile! 🌟 Feel free to explore my repositories and connect with me.</i>
+  <img src="footer.svg" alt="Thanks for visiting!"/>
 </p>
