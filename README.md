@@ -107,8 +107,11 @@ I'm an AI/ML Engineer building applied ML and NLP systems — from a **94%-accur
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sakshi-chaudhary91&theme=radical&hide_border=true" alt="Sakshi's GitHub Streak" height="165"/>
+  <img src="https://img.shields.io/badge/Total%20Contributions-131%2B-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Current%20Streak-8%20days-F97316?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Longest%20Streak-8%20days-10B981?style=for-the-badge"/>
 </p>
+<p align="center"><sub>Last updated: July 2026</sub></p>
 
 ---
 
