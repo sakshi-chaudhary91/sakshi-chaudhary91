@@ -107,7 +107,7 @@ I'm an AI/ML Engineer building applied ML and NLP systems — from a **94%-accur
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="stats.svg" alt="Sakshi's GitHub Stats"/>
+  <img src="stats.svg?v=2" alt="Sakshi's GitHub Stats"/>
 </p>
 
 ---
