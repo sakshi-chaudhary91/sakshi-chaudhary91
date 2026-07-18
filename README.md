@@ -1,4 +1,5 @@
 <p align="center">
+  SAKSHI CHAUDHARY
   <img src="banner.png" alt="Sakshi Chaudhary - AI/ML Engineer"/>
 </p>
 
