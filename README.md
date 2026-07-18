@@ -19,12 +19,12 @@
 
 ### 🚀 About Me
 
-I'm an AI/ML Engineer building applied ML and NLP systems — from a **94%-accuracy fake news classifier** to an AI resume analyzer powered by the Gemini API. Currently exploring the intersection of **Generative AI and usable product design**.
+I'm an aspiring **AI/ML Engineer** with a strong foundation in Python and Machine Learning, actively building hands-on projects in **NLP and Generative AI** (RAG, LLM APIs). I love applying AI to solve real-world problems and keep expanding my skills through self-driven projects.
 
-- 🎓 B.Tech, Computer Science (AI & ML) — Dr. Ambedkar Institute of Technology for Divyangjan, Kanpur · CGPA 8.34/10 · 2023–2027
+- 🎓 B.Tech, Computer Science (AI & ML) — Dr. Ambedkar Institute of Technology for Divyangjan, Kanpur · CGPA 8.16/10 · 2023–2027
 - 🔭 Currently a **UI/UX Design Intern** at MedhaShala, designing interfaces in Figma
 - 🌱 Currently deepening my skills in **Generative AI & LLM-based applications**
-- 🤝 **Operations Head**, E-Cell Club · Open-Source Contributor, Open Source Connect Global
+- 🤝 **Operations Head**, E-Cell Club · Open-Source Campus Lead, Open Source Connect Global
 - 📫 Reach me at **sakshichaudhary9140@gmail.com**
 
 ---
@@ -45,8 +45,9 @@ I'm an AI/ML Engineer building applied ML and NLP systems — from a **94%-accur
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-444876?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-00599C?style=flat-square"/>
 </p>
 
 **Web**
@@ -62,7 +63,6 @@ I'm an AI/ML Engineer building applied ML and NLP systems — from a **94%-accur
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
@@ -76,14 +76,13 @@ I'm an AI/ML Engineer building applied ML and NLP systems — from a **94%-accur
 <table>
   <tr>
     <td width="33%">
-      <b>🤖 <a href="https://github.com/sakshi-chaudhary91/ai-resume-analyzer">AI Resume Analyzer</a></b><br/>
-      ATS scoring, skill-gap analysis, and Gemini API-powered personalized resume recommendations.<br/>
+      <b>🤖 <a href="https://github.com/sakshi-chaudhary91/rag-document-chatbot">RAG Document Chatbot</a></b><br/>
+      RAG chatbot using Gemini API, Sentence Transformers &amp; FAISS for semantic search over PDFs, deployed as an interactive Streamlit app.<br/>
       <a href="https://YOUR-DEMO-LINK.streamlit.app"><sub>🔗 Live Demo</sub></a>
     </td>
     <td width="33%">
-      <b>😌 <a href="https://github.com/sakshi-chaudhary91/student-stress-management">Student Stress Management</a></b><br/>
-      ML-based stress detection via facial analysis and user parameters, with personalized reduction suggestions.<br/>
-      <a href="https://YOUR-DEMO-LINK.streamlit.app"><sub>🔗 Live Demo</sub></a>
+      <b>📄 <a href="https://github.com/sakshi-chaudhary91/ai-resume-analyzer">AI Resume Analyzer</a></b><br/>
+      ATS scoring, skill-gap analysis, and Gemini API-powered personalized resume recommendations via a Streamlit interface.
     </td>
     <td width="33%">
       <b>📰 <a href="https://github.com/sakshi-chaudhary91/fake-news-detection">Fake News Detection</a></b><br/>
@@ -107,7 +106,12 @@ I'm an AI/ML Engineer building applied ML and NLP systems — from a **94%-accur
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="stats.svg?v=2" alt="Sakshi's GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sakshi-chaudhary91&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-chaudhary91&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-chaudhary91&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
