@@ -111,7 +111,6 @@ I'm an aspiring **AI/ML Engineer** with a strong foundation in Python and Machin
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-chaudhary91&layout=compact&hide_border=true&bg_color=0a0715&title_color=22e6c8&text_color=dfe3ee&border_color=7c6bf2"/>
 </p>
-
 ---
 
 <p align="center">
