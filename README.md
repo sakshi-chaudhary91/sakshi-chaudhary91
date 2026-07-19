@@ -105,11 +105,11 @@ I'm an aspiring **AI/ML Engineer** with a strong foundation in Python and Machin
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sakshi-chaudhary91&show_icons=true&hide_border=true&bg_color=00000000&title_color=22e6c8&icon_color=c86bf2&text_color=dfe3ee&border_color=7c6bf2"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-chaudhary91&hide_border=true&background=00000000&ring=22e6c8&fire=c86bf2&currStreakLabel=22e6c8&sideLabels=dfe3ee&sideNums=dfe3ee&dates=9aa0b4&border=7c6bf2"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sakshi-chaudhary91&show_icons=true&hide_border=true&bg_color=0a0715&title_color=22e6c8&icon_color=c86bf2&text_color=dfe3ee&border_color=7c6bf2"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-chaudhary91&hide_border=true&background=0a0715&ring=22e6c8&fire=c86bf2&currStreakLabel=22e6c8&sideLabels=dfe3ee&sideNums=dfe3ee&dates=9aa0b4&border=7c6bf2"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-chaudhary91&layout=compact&hide_border=true&bg_color=00000000&title_color=22e6c8&text_color=dfe3ee&border_color=7c6bf2"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-chaudhary91&layout=compact&hide_border=true&bg_color=0a0715&title_color=22e6c8&text_color=dfe3ee&border_color=7c6bf2"/>
 </p>
 
 ---
