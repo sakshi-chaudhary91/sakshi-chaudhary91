@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Sakshi Chaudhary - AI/ML Engineer"/>
+  <img src="banner.svg" alt="Sakshi Chaudhary - AI/ML Engineer"/>
 </p>
 
 <p align="center">
