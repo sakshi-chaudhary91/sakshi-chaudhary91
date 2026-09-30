@@ -129,12 +129,8 @@ I'm an **AI/ML Engineer** building **LLM-powered applications** with RAG, FAISS,
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sakshi-chaudhary91&show_icons=true&theme=radical&hide_border=true"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-chaudhary91&theme=radical&hide_border=true"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-chaudhary91&layout=compact&theme=radical&hide_border=true"/>
-</p> 
 
 
 <p align="center">
