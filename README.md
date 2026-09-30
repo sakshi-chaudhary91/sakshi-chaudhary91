@@ -19,11 +19,11 @@
 
 ### 🚀 About Me
 
-I'm an aspiring **AI/ML Engineer** with a strong foundation in Python and Machine Learning, actively building hands-on projects in **NLP and Generative AI** (RAG, LLM APIs). I love applying AI to solve real-world problems and keep expanding my skills through self-driven projects.
+I'm an **AI/ML Engineer** building **LLM-powered applications** with RAG, FAISS, Sentence Transformers and the Gemini API, backed by a strong foundation in Python, Machine Learning and NLP. I love applying AI to solve real-world problems and keep expanding my skills through self-driven projects.
 
 - 🎓 B.Tech, Computer Science (AI & ML) — Dr. Ambedkar Institute of Technology for Divyangjan, Kanpur · CGPA 8.16/10 · 2023–2027
-- 🔭 Currently a **UI/UX Design Intern** at MedhaShala, designing interfaces in Figma
-- 🌱 Currently deepening my skills in **Generative AI & LLM-based applications**
+- 🔭 Oracle-certified in **Generative AI** · Completed a UI/UX Design Internship at MedhaShala (Figma)
+- 🌱 Currently practising **LangChain & LangGraph** to build multi-step LLM workflows
 - 🤝 **Operations Head**, E-Cell Club · Open-Source Campus Lead, Open Source Connect Global
 - 📫 Reach me at **sakshichaudhary9140@gmail.com**
 
@@ -34,20 +34,39 @@ I'm an aspiring **AI/ML Engineer** with a strong foundation in Python and Machin
 **Languages & Core**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-**Machine Learning, NLP & Data**
+**Generative AI & LLMs**
 <p>
+  <img src="https://img.shields.io/badge/RAG-6366F1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sentence%20Transformers-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FAISS-00599C?style=flat-square"/>
+</p>
+
+**Machine Learning, Deep Learning & Data**
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FAISS-00599C?style=flat-square"/>
+</p>
+
+**Backend & Deployment**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
 </p>
 
 **Web**
@@ -65,8 +84,6 @@ I'm an aspiring **AI/ML Engineer** with a strong foundation in Python and Machin
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
 </p>
 
 ---
@@ -75,18 +92,25 @@ I'm an aspiring **AI/ML Engineer** with a strong foundation in Python and Machin
 
 <table>
   <tr>
-    <td width="33%">
-      <b>🤖 <a href="https://github.com/sakshi-chaudhary91/rag-document-chatbot">RAG Document Chatbot</a></b><br/>
-      RAG chatbot using Gemini API, Sentence Transformers &amp; FAISS for semantic search over PDFs, deployed as an interactive Streamlit app.<br/>
-      <a href="https://YOUR-DEMO-LINK.streamlit.app"><sub>🔗 Live Demo</sub></a>
+    <td width="50%">
+      <b>🎓 <a href="https://github.com/sakshi-chaudhary91/AITD-CampusAI">AITD CampusAI</a></b><br/>
+      RAG-based campus assistant with PDF upload, chunking and semantic search using FAISS &amp; Sentence Transformers, answers via Gemini API, and a FastAPI backend secured with JWT authentication.
     </td>
-    <td width="33%">
-      <b>📄 <a href="https://github.com/sakshi-chaudhary91/ai-resume-analyzer">AI Resume Analyzer</a></b><br/>
+    <td width="50%">
+      <b>🤖 <a href="https://github.com/sakshi-chaudhary91/RAG-Document-Chatbot">RAG Document Chatbot</a></b><br/>
+      RAG chatbot using Gemini API, Sentence Transformers &amp; FAISS for semantic search over PDFs, deployed as an interactive Streamlit app with chat history.<br/>
+      <a href="https://rag-document-chatbot-91.streamlit.app/"><sub>🔗 Live Demo</sub></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>📄 <a href="https://github.com/sakshi-chaudhary91/AI-Resume-Analyzer">AI Resume Analyzer</a></b><br/>
       ATS scoring, skill-gap analysis, and Gemini API-powered personalized resume recommendations via a Streamlit interface.
     </td>
-    <td width="33%">
-      <b>📰 <a href="https://github.com/sakshi-chaudhary91/fake-news-detection">Fake News Detection</a></b><br/>
-      NLP classifier (Logistic Regression + TF-IDF) achieving <b>94% accuracy</b> on real-world news data.
+    <td width="50%">
+      <b>📰 <a href="https://github.com/sakshi-chaudhary91/Fake-News-Detector">Fake News Detector</a></b><br/>
+      NLP classifier (TF-IDF + LinearSVC) achieving <b>94.48% accuracy</b>, deployed as a Streamlit app with real-time predictions and confidence scoring.<br/>
+      <a href="https://fake-news-detector-truthscan.streamlit.app/"><sub>🔗 Live Demo</sub></a>
     </td>
   </tr>
 </table>
